@@ -35,5 +35,5 @@
   <li>Badminton(only sport I like) 🏸</li>
   <li>Coffee ☕</li>
   <li>Blogging ✍🏼</li>
-  <li>Eating(yes, it's hobby) 🍴</li>
+  <li>Eating(yes, it's hobby) 🥗</li>
 </ul>
