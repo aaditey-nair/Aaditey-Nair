@@ -1,8 +1,27 @@
-<div align="center">
-<img/ src="https://user-images.githubusercontent.com/85427178/167567036-5cd059d4-92c9-47a4-b252-1624cc3387e5.png" alt="banner">
-  <h2>👦🏼Languages</h2>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54B" alt="python badge" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash badge" />
-  <p>![Mys GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditey-Nair&show_icons=true&theme=radical)</p>
-</div>
+<img align="center" src="https://user-images.githubusercontent.com/85427178/167567036-5cd059d4-92c9-47a4-b252-1624cc3387e5.png" alt="banner">
+
+<h2>👦🏼 Languages I know</h2>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54B" alt="python badge" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash badge" />
+</p>
+
+<h2>📈 My GitHub Stats</h2>
+
+[![My github stats](https://github-readme-stats.vercel.app/api/?username=Aaditey-Nair&show_icons=true&hide_border=true)](https://github.com/Aaditey-Nair)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditey-Nair)](https://github.com/Aaditey-Nair)
+  
+<h2>📚 What am I learning:</h2>
+<ul>
+  <li>Python 🐍</li>
+  <li>AI/ML 🤖</li>
+  <li>Data Science 💻</li>
+</ul>
+
+<h2>👷🏼 What am I working on:</h2>
+<ul>
+  <li>My Blog</li>
+  <li>Portolio Website</li>
+</ul>
