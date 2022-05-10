@@ -4,5 +4,5 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54B" alt="python badge" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash badge" />
-  <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
+  <p>![Mys GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditey-Nair&show_icons=true&theme=radical)</p>
 </div>
