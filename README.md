@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/85427178/167567036-5cd059d4-92c9-47a4-b252-1624cc3387e5.png" alt="banner">
 
 <h2>Who am I?</h2>
-<p>I am a 12 year old full-stack developer living in India. I started my coding journe nearly 2 years ago, and so far I have learned JavaScript and Python. </p>
+<p>I am a 12 year old full-stack developer living in India. I started my coding journey about 2 years ago, and so far I have learned JavaScript and Python.</p>
 
 <h2>👦🏼 Languages I know</h2>
 <p>
