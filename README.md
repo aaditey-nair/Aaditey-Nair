@@ -5,9 +5,19 @@
 
 <h2>👦🏼 Languages I know</h2>
 <p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54B" alt="python badge" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/python--v1.png" alt="python badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript badge" />
+<img style="width:4rem" src="https://img.icons8.com/plasticine/344/bash.png" alt="bash badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/html-5--v1.png" alt="html badge" />
+</p>
+
+<h2>🛠 Tools I Use</h2>
+<p>
+<img style="width:4rem" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vs code badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/figma--v1.png" alt="figma badge" />
+<img style="width:4rem" src="https://img.icons8.com/color/344/git.png" alt="git badge" />
+<img style="width:4rem" src="https://user-images.githubusercontent.com/85427178/169740650-a08f51bb-0cc2-43ad-8015-d7122bfd85b7.png" alt="github badge" />
 </p>
 
 <h2>📈 My GitHub Stats</h2>
