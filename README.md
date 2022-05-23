@@ -12,9 +12,11 @@
 
 <h2>📈 My GitHub Stats</h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api/?username=Aaditey-Nair&show_icons=true&hide_border=true)](https://github.com/Aaditey-Nair)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aaditey-Nair&theme=dracula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditey-Nair)](https://github.com/Aaditey-Nair)
+[![My github stats](https://github-readme-stats.vercel.app/api/?username=Aaditey-Nair&show_icons=true&hide_border=true&theme=dracula)](https://github.com/Aaditey-Nair)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditey-Nair&theme=dracula)](https://github.com/Aaditey-Nair)
   
 <h2>📚 What am I learning:</h2>
 <ul>
