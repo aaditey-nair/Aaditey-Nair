@@ -22,7 +22,7 @@
 
 <h2>📈 My GitHub Stats</h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aaditey-Nair&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aaditey-Nair&theme=dracula&hide_border=true) -->
 
 [![My github stats](https://github-readme-stats.vercel.app/api/?username=Aaditey-Nair&show_icons=true&hide_border=true&theme=dracula)](https://github.com/Aaditey-Nair)
 
@@ -38,6 +38,7 @@
 <h2>👷🏼 What am I working on:</h2>
 <ul>
   <li>My Blog</li>
+  <li>A Platformer Game</li>
   <li>Portolio Website</li>
 </ul>
 
