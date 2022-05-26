@@ -8,7 +8,6 @@
 <img style="width:4rem" src="https://img.icons8.com/color/344/python--v1.png" alt="python badge" />
 <img style="width:4rem" src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript badge" />
 <img style="width:4rem" src="https://img.icons8.com/plasticine/344/bash.png" alt="bash badge" />
-<img style="width:4rem" src="https://img.icons8.com/color/344/html-5--v1.png" alt="html badge" />
 </p>
 
 <h2>🛠 Tools I Use</h2>
@@ -38,7 +37,6 @@
 <h2>👷🏼 What am I working on:</h2>
 <ul>
   <li>My Blog</li>
-  <li>A Platformer Game</li>
   <li>Portolio Website</li>
 </ul>
 
