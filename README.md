@@ -2,7 +2,8 @@
 
 <h2>Who am I?</h2>
 <h4>Prefered Pronouns: He/Him</h4>
-<p>If you are wondering about the name, its pronounced AA-DE-TAY NA-YER. It's wierd. I know. So I am a 12 year old full-stack developer living in India. I started my coding journey about 2 years ago, and so far I have learned JavaScript and Python.</p>
+<h4>Name Pronunciation: AA-DE-TAY NA-YER (it's wierd)</h4>
+<p>I am a 12 year old full-stack developer living in India. I started my coding journey about 2 years ago, and so far I have learned JavaScript and Python.</p>
 
 <h2>👦🏼 Languages I know</h2>
 <p>
