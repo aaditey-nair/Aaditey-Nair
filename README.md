@@ -39,7 +39,6 @@
 <h2>👷🏼 What am I working on:</h2>
 <ul>
   <li>My Blog</li>
-  <li>Portolio Website</li>
 </ul>
 
 <h2>What do I do when I'm not coding </h2>
