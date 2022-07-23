@@ -1,8 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/85427178/167567036-5cd059d4-92c9-47a4-b252-1624cc3387e5.png" alt="banner">
 
-<h2>Who am I?</h2>
-<h3>Prefered Pronouns: He/Him</h3>
-<h3>Name Pronunciation: AA-DE-TAY NA-YER (it's wierd)</h3>
+<h2>Pronouns: He/Him</h3>
+<h2>Name Pronunciation: AA-DE-TAY NA-YER (it's wierd)</h3>
 
 <h2>👦🏼 Languages I know</h2>
 <p>
