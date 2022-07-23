@@ -1,9 +1,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/85427178/167567036-5cd059d4-92c9-47a4-b252-1624cc3387e5.png" alt="banner">
 
 <h2>Who am I?</h2>
-<h4>Prefered Pronouns: He/Him</h4>
-<h4>Name Pronunciation: AA-DE-TAY NA-YER (it's wierd)</h4>
-<p>I am a 12 year old full-stack developer living in India. I started my coding journey about 2 years ago, and so far I have learned JavaScript and Python.</p>
+<h3>Prefered Pronouns: He/Him</h3>
+<h3>Name Pronunciation: AA-DE-TAY NA-YER (it's wierd)</h3>
 
 <h2>👦🏼 Languages I know</h2>
 <p>
@@ -20,14 +19,6 @@
 <img style="width:4rem" src="https://img.icons8.com/color/344/git.png" alt="git badge" />
 <img style="width:4rem" src="https://user-images.githubusercontent.com/85427178/169740650-a08f51bb-0cc2-43ad-8015-d7122bfd85b7.png" alt="github badge" />
 </p>
-
-<h2>📈 My GitHub Stats</h2>
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aaditey-Nair&theme=dracula&hide_border=true) -->
-
-[![My github stats](https://github-readme-stats.vercel.app/api/?username=aaditeynair&show_icons=true&hide_border=true&theme=dracula)](https://github.com/Aaditey-Nair)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditeynair&theme=dracula)](https://github.com/Aaditey-Nair)
   
 <h2>📚 What am I learning:</h2>
 <ul>
@@ -39,13 +30,4 @@
 <h2>👷🏼 What am I working on:</h2>
 <ul>
   <li>My Blog</li>
-</ul>
-
-<h2>What do I do when I'm not coding </h2>
-<ul>
-  <li>Reading 📕</li>
-  <li>Badminton(only sport I like) 🏸</li>
-  <li>Coffee ☕</li>
-  <li>Blogging ✍🏼</li>
-  <li>Eating(yes, it's hobby) 🥗</li>
 </ul>
